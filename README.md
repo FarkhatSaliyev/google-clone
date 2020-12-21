@@ -1,3 +1,18 @@
+# Google clone
+
+React / Context API
+React Routers
+React Hooks
+
+Styling & Icons
+    BEM naming convention
+    Material-UI
+
+Deployment 
+    Firebase
+
+Google dev tools
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
