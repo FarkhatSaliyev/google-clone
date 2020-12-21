@@ -9,7 +9,6 @@ import Search from './Search'
 export default function Home() {
     return (
         <div className='home'>
-            <h1>Yayyy</h1>
             <div className='home__header'>
                 <div className='home__headerLeft'>
                     <Link to='/about'>About</Link>
