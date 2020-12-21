@@ -1,14 +1,14 @@
 # Google clone
 
-React / Context API
-React Routers
+React / Context API,
+React Routers,
 React Hooks
 
-Styling & Icons
-    BEM naming convention
+Styling & Icons:
+    BEM naming convention,
     Material-UI
 
-Deployment 
+Deployment:
     Firebase
 
 Google dev tools
