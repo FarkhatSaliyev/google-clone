@@ -17,10 +17,10 @@ export default function SearchPage() {
     const [{ term }, dispatch] = useStateValue()
     
     // Live API call
-    const { data } = useGoogleSearch(term)
+    // const { data } = useGoogleSearch(term)
     
     //Mock api data
-    // const data = Response
+    const data = Response
     console.log(data);
 
     return (
